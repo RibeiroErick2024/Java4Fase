@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BibliosenaApplication<bibliosena>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.senai.bibliosena.BibliosenaApplication",
+            "projectName": "bibliosena",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
